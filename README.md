@@ -6,7 +6,6 @@ ShopKart is a frontend web application developed using ReactJS. The app provides
 ### Tech Stack
 - **ReactJS**
 - **TailwindCSS**
-- **DaisyUI** (a TailwindCSS library for easy component styling)
 - **HTML**
 - **Internal JSON Server** (using `npm run server`)
 - **React Hooks**
