@@ -1,7 +1,7 @@
 # ShopKart
 
 ### Overview
-ShopKart is a frontend web application developed using ReactJS as an assignment for Tanx.fi. The app provides a user-friendly interface for managing a shopping experience.
+ShopKart is a frontend web application developed using ReactJS. The app provides a user-friendly interface for managing a shopping experience.
 
 ### Tech Stack
 - **ReactJS**
