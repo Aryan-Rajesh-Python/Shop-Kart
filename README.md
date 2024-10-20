@@ -26,5 +26,6 @@ ShopKart is a frontend web application developed using ReactJS. The app provides
    git clone https://github.com/yourusername/shopkart.git
    cd Shop-Kart-main
    cd src
+   npm install
    
 
