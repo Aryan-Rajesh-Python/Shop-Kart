@@ -21,8 +21,9 @@ ShopKart is a frontend web application developed using ReactJS. The app provides
 - **Single Page Application**: Smooth transitions between components using `useState` and conditional rendering.
 
 ### Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
+   
    git clone https://github.com/yourusername/shopkart.git
    cd Shop-Kart-main
    cd src
