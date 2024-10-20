@@ -27,5 +27,6 @@ ShopKart is a frontend web application developed using ReactJS. The app provides
    cd Shop-Kart-main
    cd src
    npm install
+   npm start
    
 
